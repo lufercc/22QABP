@@ -1,1 +1,19 @@
 
+UI TEST README
+
+- To automate this was selected selenium and Cucumber using GRADLE for dependency manager
+- we Created the pageobject and found the locator
+- we use the a web driver manager library to crate the browser to avoid submit and download the browser library
+
+also we created the Runner to exectute the test
+the command to execute these is 
+```
+./gradlew uiTests
+```
+
+
+API TEST README
+we select KARATE to automate this
+we created the apitest.feature in Resources folder
+
+
