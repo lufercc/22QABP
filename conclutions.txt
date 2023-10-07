@@ -1,0 +1,7 @@
+UI TEST conclutions
+
+- The UI automation was executed over saucedemo app, The application works well and no was necessary create waits but it is an improvement todo
+
+
+API Test conclutions
+ - The test selected in the "https://petstore.swagger.io/" preset an bug, the update users no works in the api server, therefore the test fails
